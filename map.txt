@@ -1,0 +1,49 @@
+XXXXXXXXXXXXXXXXXXXXXXXXXX
+X000000X.X111111XaX222222X
+X0000000..111111..2222222X
+X0000000..111111..2222222X
+X0000000..111111..2222222X
+XX.....^.>111111..2222222X
+Xf........111111..2222222X
+XX88888...111111..^.....XX
+X8888888....^^..........bX
+X8888888<.CCCCC...v.....XX
+X8888888..CCCCC..33333333X
+XX88888...CCCCC..33333333X
+XXv.......CCCCC..33333333X
+X777777...CCCCC.>33333333X
+X777777...CCCCC..33333333X
+X777777...CCCCC..33333333X
+X777777<............33333X
+X777777...v....v........XX
+XX.......55555555...v....X
+Xe.......55555555..44444XX
+XX6666<.>55555555<.444444X
+X666666..55555555..444444X
+X666666..55555555..444444X
+X666666..55555555..444444X
+X666666X...5555...X444444X
+XXXXXXXXXXdXXXXcXXXXXXXXXX
+XXXXXXXXXXXXXXXXXXXXXXXXXX
+!!!
+
+KEY:
+!!! is the delimiter for the end of the file
+
+X is non-existent, outside territory
+C is Cellar
+
+. is the normal squares, the ones you can walk on
+^ is a normal square with a door above
+v is a normal square with a door below
+> is a normal square with a door to the right
+< is a normal square with a door to the left
+
+0 is room 0
+1 is room 1
+etc etc
+
+a is player 0 starting spot
+b is player 1 starting spot
+etc etc
+
